@@ -1,0 +1,13 @@
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.dll.config
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.dll
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.pdb
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.csprojAssemblyReference.cache
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.csproj.CoreCompileInputs.cache
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.dll
+c:\users\trankhanh99\source\repos\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.pdb
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.dll.config
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.dll
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\bin\Employee_WebserviceREST.pdb
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.csproj.CoreCompileInputs.cache
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.dll
+E:\WCF\Employee_WebserviceREST\Employee_WebserviceREST\Employee_WebserviceREST\obj\Debug\Employee_WebserviceREST.pdb
